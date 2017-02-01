@@ -28,13 +28,13 @@
 <question id="lmsgi_003">
 <type>multiple</type>
 <title>3.- ¿Cuáles de los siguientes trastornos de la personalidad estarían dentro del Grupo B (trastornos dramáticos, emocionales o erráticos)?</title>
-<option>a) Trastorno límite de la personalidad</option>
-<option>b) Trastorno esquizoide de la personalidad</option>
-<option>c) Trastorno obsesivo-compulsivo de la personalidad</option>
-<option>d) Trastorno histriónico de la personalidad</option>
-<option>e) Trastorno narcisista de la personalidad</option>
-<option>f) Trastorno de la personalidad por evitación</option>
-<option>g) Trastorno paranoide de la personalidad</option>
+<option>a) Trastorno límite de la personalidad.</option>
+<option>b) Trastorno esquizoide de la personalidad.</option>
+<option>c) Trastorno obsesivo-compulsivo de la personalidad.</option>
+<option>d) Trastorno histriónico de la personalidad.</option>
+<option>e) Trastorno narcisista de la personalidad.</option>
+<option>f) Trastorno de la personalidad por evitación.</option>
+<option>g) Trastorno paranoide de la personalidad.</option>
 <answer>1</answer>
 <answer>4</answer>
 <answer>5</answer>
@@ -42,7 +42,7 @@
 
 <question id="lmsgi_004">
 <type>multiple</type>
-<title>4.- ¿Cuáles de las siguientes son partes de una neurona? </title>
+<title>4.- ¿Cuáles de las siguientes son partes de una neurona?</title>
 <option>a) Sarcómero</option>
 <option>b) Núcleo</option>
 <option>c) Dendritas</option>
