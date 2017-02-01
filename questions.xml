@@ -3,8 +3,7 @@
 
 <questions>
 
-<question id="lmsgi_001">
-<type>select</type>
+<question id="q_001" type="select">
 <title>1.- ¿Cuál es el orden correcto de la jerarquía de las necesidades de Maslow, empezando por la necesidad más básica?</title>
 <option>a) Fisiológicas, seguridad, ego o autoestima, afiliación y autorrealización.</option>
 <option>b) Existencia, relación y crecimiento.</option>
@@ -14,9 +13,8 @@
 <answer>5</answer>
 </question>
 
-<question id="lmsgi_002">
-<type>select</type>
-<title>2.- La técnica básica de la evaluación conductual es:</title>
+<question id="q_002" type="select">
+<title>2.- La técnica o técnicas básicas de la evaluación conductual es:</title>
 <option>a) Las listas de adjetivos.</option>
 <option>b) La observación directa.</option>
 <option>c) Los autoinformes de personalidad.</option>
@@ -25,8 +23,7 @@
 <answer>2</answer>
 </question>
 
-<question id="lmsgi_003">
-<type>multiple</type>
+<question id="q_003" type="multiple">
 <title>3.- ¿Cuáles de los siguientes trastornos de la personalidad estarían dentro del Grupo B (trastornos dramáticos, emocionales o erráticos)?</title>
 <option>a) Trastorno límite de la personalidad.</option>
 <option>b) Trastorno esquizoide de la personalidad.</option>
@@ -40,33 +37,29 @@
 <answer>5</answer>
 </question>
 
-<question id="lmsgi_004">
-<type>multiple</type>
-<title>4.- ¿Cuáles de las siguientes son partes de una neurona?</title>
-<option>a) Sarcómero</option>
-<option>b) Núcleo</option>
-<option>c) Dendritas</option>
-<option>d) Axón</option>
-<option>e) Cilios</option>
+<question id="q_004" type="multiple">
+<title>4.- ¿Cuáles de las siguientes son partes de una neurona? </title>
+<option>a) Sarcómero.</option>
+<option>b) Núcleo.</option>
+<option>c) Dendritas.</option>
+<option>d) Axón.</option>
+<option>e) Cilios.</option>
 <answer>2</answer>
 <answer>3</answer>
 <answer>4</answer>
 </question>
 
-<question id="lmsgi_005">
-<type>text</type>
+<question id="q_005" type="text">
 <title>5.- La _______ es una aproximación intercelular especializada entre neuronas. En estos contactos se lleva a cabo la transmisión del impulso nervioso.</title>
 <answer>sinapsis</answer>
 </question>
 
-<question id="lmsgi_006">
-<type>text</type>
+<question id="q_006" type="text">
 <title>6.- El _______ es el fármaco más adecuado para el tratamiento de mantenimiento del trastorno bipolar</title>
 <answer>litio</answer>
 </question>
 
-<question id="lmsgi_007">
-<type>radio</type>
+<question id="q_007" type="radio">
 <title>7.- ¿Cuál es el componente esencial para la efectividad del tratamiento de la fobia social?</title>
 <option>a) Entrenamiento en habilidades sociales.</option>
 <option>b) Exposición en vivo.</option>
@@ -76,8 +69,7 @@
 <answer>2</answer>
 </question>
 
-<question id="lmsgi_008">
-<type>radio</type>
+<question id="q_008" type="radio">
 <title>8.- El término empleado para hacer referencia a cualquier agente ambiental que causa daño durante el período prenatal es:</title>
 <option>a) Vírico.</option>
 <option>b) Displásico.</option>
@@ -87,8 +79,7 @@
 <answer>3</answer>
 </question>
 
-<question id="lmsgi_009">
-<type>checkbox</type>
+<question id="q_009" type="checkbox">
 <title>9.- ¿Cuáles de los siguientes se consideran trastornos del control de impulsos?</title>
 <option>a) Ludopatía.</option>
 <option>b) Tricotilomanía.</option>
@@ -100,8 +91,7 @@
 <answer>4</answer>
 </question>
 
-<question id="lmsgi_010">
-<type>checkbox</type>
+<question id="q_010" type="checkbox">
 <title>10.- ¿Qué partes están delimitadas por la cisura de Rolando?</title>
 <option>a) El lóbulo frontal.</option>
 <option>b) El lóbulo parietal.</option>
